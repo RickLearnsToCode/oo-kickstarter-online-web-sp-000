@@ -1,4 +1,4 @@
-class Backer 
+class Backer
 
   attr_reader :name
 
@@ -7,4 +7,3 @@ class Backer
   end
 
 end
-
